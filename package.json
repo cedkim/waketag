@@ -9,6 +9,7 @@
     },
     "author": "Cedric Kim <hello@cedric.today> (https://cedric.today/)",
     "dependencies": {
+        "cordova-android": "^7.1.4",
         "cordova-plugin-background-mode": "^0.7.3",
         "cordova-plugin-compat": "^1.2.0",
         "cordova-plugin-device": "^2.0.3",
