@@ -42,19 +42,25 @@
   "cordova-plugin-device": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-device"
-    },
-    "is_top_level": false,
-    "variables": {}
-  },
-  "cordova-android-support-gradle-release": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-android-support-gradle-release@3.0.1"
+      "id": "cordova-plugin-device@^2.0.3"
     },
     "is_top_level": true,
-    "variables": {
-      "ANDROID_SUPPORT_VERSION": "27.1.0"
-    }
+    "variables": {}
+  },
+  "cordova-plugin-androidx": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-androidx-adapter": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-androidx-adapter"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
