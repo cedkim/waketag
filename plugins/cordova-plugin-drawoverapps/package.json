@@ -1,0 +1,51 @@
+{
+  "_from": "git+https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git",
+  "_id": "cordova-plugin-drawoverapps@1.0.6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-drawoverapps",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps",
+    "rawSpec": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps",
+    "saveSpec": "git+https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git",
+    "fetchSpec": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git#84b83c423019d25d7186409a314354c8603ca0a6",
+  "_spec": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps",
+  "_where": "D:\\Projects\\Waketag\\waketag",
+  "bugs": {
+    "url": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-drawoverapps",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Android Cordova Plugin that uses draw over all apps feasure to display a Web view",
+  "homepage": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps#readme",
+  "keywords": [
+    "cordova",
+    "drawoverapps",
+    "draw over apps",
+    "over all apps",
+    "draw over all",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "name": "cordova-plugin-drawoverapps",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git"
+  },
+  "version": "1.0.6"
+}

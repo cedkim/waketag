@@ -1,0 +1,60 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-compat": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-compat@^1.0.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-drawoverapps": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/ahmedwahba/cordova-plugin-drawoverapps"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "phonegap-nfc": {
+    "source": {
+      "type": "registry",
+      "id": "phonegap-nfc"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-background-mode": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-background-mode"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-android-support-gradle-release": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-android-support-gradle-release@3.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROID_SUPPORT_VERSION": "27.1.0"
+    }
+  }
+}
