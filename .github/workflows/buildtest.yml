@@ -11,8 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Build test: Environment setup
+    - name: Build test: Node.js environment setup
       uses: actions/setup-node@v1
+      with:
+        version: 8
+    - name: Build test: Cordova environment setup
       run: npm install -g cordova
     - name: Build test: Cleanup
       run: cordova clean
