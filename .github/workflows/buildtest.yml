@@ -1,0 +1,19 @@
+name: Build test
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Build test: Environment setup
+      run: npm install -g cordova
+    - name: Build test: Cleanup
+      run: cordova clean
+    - name: Build test: Build
+      run: cordova build
