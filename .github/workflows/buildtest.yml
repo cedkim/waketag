@@ -12,6 +12,7 @@ jobs:
     
     steps:
     - name: Build test: Environment setup
+      uses: actions/setup-node@v1
       run: npm install -g cordova
     - name: Build test: Cleanup
       run: cordova clean
