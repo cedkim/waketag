@@ -24,4 +24,7 @@
         <splash density="port-xxhdpi" src="res/screen/android/splash-port-xxhdpi.png" />
         <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
     </platform>
+    <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-permission" xmlns:android="http://schemas.android.com/apk/res/android">
+        <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    </edit-config>
 </widget>

@@ -27,6 +27,9 @@
     },
     "phonegap-nfc": {
       "PACKAGE_NAME": "today.cedric.waketag"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "today.cedric.waketag"
     }
   },
   "dependent_plugins": {}
