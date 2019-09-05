@@ -9,8 +9,8 @@
     },
     "license": "MIT",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/cedkim/waketag"
+        "type": "git",
+        "url": "https://github.com/cedkim/waketag"
     },
     "author": "Cedric Kim <hello@cedric.today> (https://cedric.today/)",
     "dependencies": {
